@@ -1,5 +1,5 @@
 # Core-Java-Concepts
-This repository contains all the example programs to undersatnd the basic concepts of java like
+This repository contains all the example programs to undersatnd the basic concepts of java like followign topics , it would be useful for beginners students
 
 Class & Objects
 
