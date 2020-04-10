@@ -2,6 +2,7 @@ package com.multithread;
 
 /**
  * Main Thread
+ * @author Riyaz
  */
 public class MainThread {
     public static void main(String[] args) {
