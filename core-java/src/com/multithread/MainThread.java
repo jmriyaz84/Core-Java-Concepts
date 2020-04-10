@@ -1,5 +1,8 @@
 package com.multithread;
 
+/**
+ * Main Thread
+ */
 public class MainThread {
     public static void main(String[] args) {
         ChildThread childThread = new ChildThread();
