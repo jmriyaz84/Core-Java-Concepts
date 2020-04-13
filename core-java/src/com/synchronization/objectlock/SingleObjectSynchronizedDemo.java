@@ -1,6 +1,6 @@
-package com.synchronization;
+package com.synchronization.objectlock;
 
-public class SynchronizedDemo {
+public class SingleObjectSynchronizedDemo {
     public static void main(String[] args) {
         Display d = new Display();
         MyThread t1 = new MyThread(d, "Mohammed");

@@ -1,4 +1,4 @@
-package com.synchronization;
+package com.synchronization.classlock;
 
 public class MyThread extends Thread {
     Display d;

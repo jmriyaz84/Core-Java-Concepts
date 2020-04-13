@@ -1,4 +1,4 @@
-package com.synchronization;
+package com.synchronization.objectlock;
 
 public class Display {
     public synchronized void wish(String name) {
